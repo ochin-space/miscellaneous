@@ -17,6 +17,13 @@ To make it dismountable, I mounted a threaded insert into the taranis shell inst
 This is the second version of the Taranis x9d plus Tray. This tray is meant to be fast unmountable. In the folder you will also find the cilinders to mount on the taranis shell, where the tray will be inserted.
 This is a video where is shown how to mount and dismount the tray:
 https://www.youtube.com/watch?v=oC9RFaXWonc
+## Radiomaster TX16S tray 
+![Alt text](images/Radiomaster1_tray.jpg?raw=true "Taranis X9D plus Tray")
+![Alt text](images/Radiomaster2_tray.jpg?raw=true "Taranis X9D plus Tray")
+![Alt text](images/Radiomaster3_tray.jpg?raw=true "Taranis X9D plus Tray")
+This tray is meant to be fast unmountable. In the folder you will also find the cilinders to mount on the TX16S shell, where the tray will be inserted.
+This is a video where is shown how to mount and dismount the tray:
+https://www.youtube.com/watch?v=oC9RFaXWonc
 
 # devices
 This folder contains the projects of electronics devices.
